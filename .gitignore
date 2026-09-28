@@ -1,0 +1,7 @@
+/target/
+/cache/
+/data/
+/.env
+/.vscode/
+*.ogg
+*.wav
